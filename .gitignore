@@ -1,0 +1,6 @@
+[Ss]etup1/
+
+#VS Cache
+/.vs/
+
+*.htm
